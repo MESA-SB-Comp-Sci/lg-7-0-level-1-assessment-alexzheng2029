@@ -10,6 +10,8 @@ What is the difference between a static unit like `px` and a responsive unit lik
 
 Describe what makes a unit responsive and why that matters when building a website.
 
+px is a static and a fixed size and never changes where the other units can range based off of the browsers size.
+
 
 
 
@@ -34,6 +36,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
+the 50% works better as it can change size  based of the browser size where the other one is fixed and cannot move
 
 
 

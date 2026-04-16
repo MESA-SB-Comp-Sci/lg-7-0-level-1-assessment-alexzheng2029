@@ -11,37 +11,37 @@ body {
 .header-styles {
     background-color: #2E4057;
     color: white;
-    padding: 20px;
+    padding: 20;
 }
 
 h1 {
-    font-size: 32px;
-    margin: 0;
+    font-size:1vw;
+    margin: 24px;
 }
 
 .main-styles {
     background-color: #f5f5f5;
-    padding: 24px;
+    padding:px;
     height: 600px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size:1vw;
     color: #2E4057;
 }
 
 p {
-    font-size: 16px;
+    font-size1vw;
     color: #555;
 }
 
 img {
-    width: 800px;
+    width:50%;
     display: block;
     margin-bottom: 16px;
 }
 
 .list-styles {
-    font-size: 16px;
+    font-size: 1vw;
     color: #555;
 }
